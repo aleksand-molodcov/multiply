@@ -2,7 +2,7 @@
 
 ## Task
 
-Implement function, that for given value two numbers, presented as strings will return their product
+Implement function, that for given two numbers, presented as strings will return their product
 
 ```js
 multiply('1', '1') // -> '1', because 1 * 1 === 1
