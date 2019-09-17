@@ -1,4 +1,4 @@
-# Product of 2 numbers
+# Multiply
 
 ## Task
 
@@ -11,3 +11,20 @@ multiply('5', '10') // -> '50', because 5 * 10 === 50
 ```
 
 Write your code in `src/index.js`
+
+## Prepare and test
+1. Install [Node.js](https://nodejs.org/en/download/)   
+2. Fork this repository: https://github.com/Shastel/multiply/  
+3. Clone your newly created repo: https://github.com/<%your_github_username%>/multiply/  
+4. Go to folder `multiply`  
+5. To install all dependencies use [`npm install`](https://docs.npmjs.com/cli/install)  
+6. Run npm test in command line  
+7. You will see the number of passing and failing tests you 100% of passing tests is equal to 100p in score  
+
+## Submit to [rs app](https://app.rs.school)
+1.
+2.
+...
+n.
+
+credits [@yankouskia](https://github.com/yankouskia/)
