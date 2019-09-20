@@ -22,9 +22,9 @@ Write your code in `src/index.js`
 7. You will see the number of passing and failing tests you 100% of passing tests is equal to 100p in score  
 
 ## Submit to [rs app](https://app.rs.school)
-1.
-2.
-...
-n.
+1. Open [rs app](https://app.rs.school) and login
+2. Go to [submit task page](https://app.rs.school/course/submit-task?course=rs-2019-q3)
+3. Select your task (multiply)
+4. Press the submit button and enjoy 
 
 credits [@yankouskia](https://github.com/yankouskia/)
